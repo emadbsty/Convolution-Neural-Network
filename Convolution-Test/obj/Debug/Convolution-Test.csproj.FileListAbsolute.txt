@@ -1,0 +1,10 @@
+D:\ANN\Convolution-Test\Convolution-Test\bin\Debug\Convolution-Test.exe.config
+D:\ANN\Convolution-Test\Convolution-Test\bin\Debug\Convolution-Test.exe
+D:\ANN\Convolution-Test\Convolution-Test\bin\Debug\Convolution-Test.pdb
+D:\ANN\Convolution-Test\Convolution-Test\bin\Debug\ImageP.dll
+D:\ANN\Convolution-Test\Convolution-Test\obj\Debug\Convolution_Test.Form1.resources
+D:\ANN\Convolution-Test\Convolution-Test\obj\Debug\Convolution_Test.Properties.Resources.resources
+D:\ANN\Convolution-Test\Convolution-Test\obj\Debug\Convolution-Test.csproj.GenerateResource.Cache
+D:\ANN\Convolution-Test\Convolution-Test\obj\Debug\Convolution-Test.exe
+D:\ANN\Convolution-Test\Convolution-Test\obj\Debug\Convolution-Test.pdb
+D:\ANN\Convolution-Test\Convolution-Test\bin\Debug\ANN-Lib.dll
